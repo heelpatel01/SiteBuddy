@@ -12,7 +12,7 @@ export default function Home() {
         </h1>
         <p className="mt-4 text-xl font-medium">
           Easily interact with any website by simply adding our URL before the
-          site's address.
+          site`s address.
         </p>
       </header>
 
@@ -68,7 +68,7 @@ export default function Home() {
             />
             <p className="mt-4 text-center text-gray-700">
               Add our URL at the beginning to open a chat UI and interact with
-              the website's content.
+              the website`s content.
             </p>
           </div>
         </div>
@@ -78,7 +78,7 @@ export default function Home() {
       <section className="w-full max-w-5xl mt-16 px-4 py-12 bg-blue-600 text-white rounded-lg shadow-md">
         <h2 className="text-4xl font-semibold">Get Started Now</h2>
         <p className="mt-4 text-lg">
-          Try it out by adding our URL before any website's address and start
+          Try it out by adding our URL before any website`s address and start
           chatting!
         </p>
       </section>

@@ -21,7 +21,7 @@ export const Messages = ({ messages }: MessagesProps) => {
         <div className="flex-1 flex flex-col items-center justify-center gap-4 p-4 bg-gray-800 rounded-lg shadow-lg">
           <MessageSquare className="w-16 h-16 text-blue-400" />
           <h3 className="text-xl font-semibold text-white">
-            You're all set!
+            You`re all set!
           </h3>
           <p className="text-gray-400 text-sm">
             Ask your first question to get started.

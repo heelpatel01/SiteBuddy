@@ -30,9 +30,9 @@ export const ChatWrapper = ({
           handleInputChange={handleInputChange}
           handleSubmit={handleSubmit}
           setInput={setInput}
-          className={
-            "bg-gray-700 text-white border border-gray-600 rounded-lg shadow-md p-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
-          }
+          // className={
+          //   "bg-gray-700 text-white border border-gray-600 rounded-lg shadow-md p-2 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          // }
         />
       </div>
     </div>
