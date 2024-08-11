@@ -8,7 +8,7 @@ export default function Home() {
       {/* Header Section */}
       <header className="w-full max-w-5xl text-center py-16 px-8 bg-gradient-to-r from-blue-500 to-indigo-600 text-white rounded-lg shadow-lg">
         <h1 className="text-5xl font-extrabold text-shadow-lg">
-          Welcome to ChatPage!
+          Welcome to SiteBuddy!
         </h1>
         <p className="mt-4 text-xl font-medium">
           Easily interact with any website by simply adding our URL before the
@@ -20,20 +20,20 @@ export default function Home() {
       <section className="w-full max-w-5xl mt-16 px-4">
         <div className="bg-white p-8 rounded-lg shadow-md text-center">
           <h2 className="text-3xl font-semibold text-gray-800 mb-6">
-            Why ChatPage?
+            Why SiteBuddy?
           </h2>
           <p className="text-lg text-gray-700 mb-4">
-            ChatPage revolutionizes the way you interact with websites. By
+            SiteBuddy revolutionizes the way you interact with websites. By
             simply prefixing our URL, you unlock a new layer of engagement and
             functionality on any site. Whether you want to provide real-time
             feedback, ask questions, or explore features in an interactive way,
-            ChatPage makes it seamless and intuitive.
+            SiteBuddy makes it seamless and intuitive.
           </p>
           <p className="text-lg text-gray-700">
             Our platform is designed with user experience in mind, offering a
             clean and responsive interface that works effortlessly across
             devices. Dive into a more interactive web experience and make every
-            visit to your favorite websites more dynamic with ChatPage.
+            visit to your favorite websites more dynamic with SiteBuddy.
           </p>
         </div>
       </section>
@@ -85,7 +85,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="w-full max-w-5xl mt-24 px-4 py-6 bg-gray-800 text-white rounded-lg text-center shadow-md">
-        <p>© 2024 ChatPage. All rights reserved.</p>
+        <p>© 2024 SiteBuddy. All rights reserved.</p>
       </footer>
     </main>
   );
