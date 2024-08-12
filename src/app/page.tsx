@@ -1,6 +1,7 @@
 import Image from "next/image";
 import image1 from "../../img1.jpg";
 import image2 from "../../img2.jpg";
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   return (
