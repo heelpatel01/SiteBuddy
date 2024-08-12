@@ -1,7 +1,7 @@
 import Image from "next/image";
 import image1 from "../../img1.jpg";
 import image2 from "../../img2.jpg";
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from "@vercel/analytics/react";
 
 export default function Home() {
   return (
@@ -86,8 +86,9 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="w-full max-w-5xl mt-24 px-4 py-6 bg-gray-800 text-white rounded-lg text-center shadow-md">
-        <p>© 2024 SiteBuddy. All rights reserved.</p>
+        <p>મુલાકાત લેવા બદલ આભાર ☕</p>
       </footer>
+      <Analytics />
     </main>
   );
 }
